@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cambridge Machine Learning Group</title>
-    <link>https://cambridge-mlg.github.io/</link>
-    <description>Recent content on Cambridge Machine Learning Group</description>
+    <title>Cambridge Machine Learning Group on Cambridge MLG</title>
+    <link>http://mlg.eng.cam.ac.uk/</link>
+    <description>Recent content in Cambridge Machine Learning Group on Cambridge MLG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 13:53:24 +0100</lastBuildDate>
     
-	<atom:link href="https://cambridge-mlg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mlg.eng.cam.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Website for Cambridge MLG</title>
-      <link>https://cambridge-mlg.github.io/posts/my-first-post/</link>
+      <link>http://mlg.eng.cam.ac.uk/my-first-post/</link>
       <pubDate>Tue, 15 Sep 2020 13:53:24 +0100</pubDate>
       
-      <guid>https://cambridge-mlg.github.io/posts/my-first-post/</guid>
-      <description>Our website has been renewed! Let us know of any issues you might encounter.
-The old website is still available at http://mlg.eng.cam.ac.uk</description>
+      <guid>http://mlg.eng.cam.ac.uk/my-first-post/</guid>
+      <description>Our website has been renewed! Let us know of any issues you might encounter.</description>
     </item>
     
   </channel>

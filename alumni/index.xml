@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alumni on Cambridge Machine Learning Group</title>
-    <link>https://cambridge-mlg.github.io/alumni/</link>
-    <description>Recent content in Alumni on Cambridge Machine Learning Group</description>
+    <title>Alumni on Cambridge MLG</title>
+    <link>http://mlg.eng.cam.ac.uk/alumni/</link>
+    <description>Recent content in Alumni on Cambridge MLG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://cambridge-mlg.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mlg.eng.cam.ac.uk/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,64 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cambridge-mlg.github.io/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/my-first-post/</loc>
     <lastmod>2020-09-15T13:53:24+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-09-15T13:53:24+01:00</lastmod>
+    <loc>http://mlg.eng.cam.ac.uk/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/posts/</loc>
-    <lastmod>2020-09-15T13:53:24+01:00</lastmod>
+    <loc>http://mlg.eng.cam.ac.uk/alumni/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/about/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/alumni/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/categories/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/members/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/members/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/phd_admissions/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/phd_admissions/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/publications/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cambridge-mlg.github.io/publications/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cambridge-mlg.github.io/tags/</loc>
+    <loc>http://mlg.eng.cam.ac.uk/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
